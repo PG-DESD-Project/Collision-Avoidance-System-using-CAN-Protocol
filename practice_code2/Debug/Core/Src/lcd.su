@@ -1,0 +1,4 @@
+../Core/Src/lcd.c:14:6:LcdInit	8	static
+../Core/Src/lcd.c:37:6:LcdWriteNibble	32	static
+../Core/Src/lcd.c:46:6:LcdWriteByte	24	static
+../Core/Src/lcd.c:55:6:LcdPuts	24	static
