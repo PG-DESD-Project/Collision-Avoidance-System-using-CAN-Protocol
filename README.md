@@ -67,6 +67,3 @@ Each node performs the following:
 * Use higher-layer CAN protocols (e.g., CANopen)
 * Insert rain/fog sensor to activate fog lights
 * Real-time logging via SD card or telemetry
-
-
-Let me know if you want this formatted as a `README.md`.
