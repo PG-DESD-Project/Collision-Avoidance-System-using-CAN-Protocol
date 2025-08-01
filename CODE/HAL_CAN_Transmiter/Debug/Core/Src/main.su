@@ -1,0 +1,13 @@
+../Core/Src/main.c:84:6:delay_us	24	static
+../Core/Src/main.c:98:6:IR_Sensor_Object_Detect	64	static
+../Core/Src/main.c:114:6:Ultrasonic_distance	8	static
+../Core/Src/main.c:126:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/main.c:170:6:Read_Ultrasonic	8	static
+../Core/Src/main.c:209:5:main	16	static
+../Core/Src/main.c:288:6:SystemClock_Config	88	static
+../Core/Src/main.c:334:13:MX_ADC2_Init	24	static
+../Core/Src/main.c:386:13:MX_CAN1_Init	48	static
+../Core/Src/main.c:436:13:MX_TIM4_Init	48	static
+../Core/Src/main.c:494:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:527:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:568:6:Error_Handler	4	static,ignoring_inline_asm
