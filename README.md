@@ -33,7 +33,7 @@ Each node performs the following:
 | STM32 Microcontroller | STM32F103 / STM32F407 or compatible     |
 | CAN Transceiver       | MCP2551                                 |
 | Ultrasonic Sensor     | HC-SR04 (distance measurement)          |
-| IR Sensor             | LM393 (Proximity)                       |
+| IR Sensor             | Proximity                               |
 | Alert Devices         | Buzzer, LED, OLED/LCD (optional)        |
 | Power Supply          | 9V Battery or 5V Regulated Source      |
 | Wiring                | CAN\_H, CAN\_L, GND, Sensor Connections |
